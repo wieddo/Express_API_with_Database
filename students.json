@@ -1,0 +1,57 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "username": "hpadly0",
+      "email": "hpadly0@yolasite.com",
+      "name": "Heinrik Padly",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "username": "hposnette1",
+      "email": "hposnette1@weibo.com",
+      "name": "Hamilton Posnette",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "username": "lcohn2",
+      "email": "lcohn2@clickbank.net",
+      "name": "Lena Cohn",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "username": "shebborn3",
+      "email": "shebborn3@w3.org",
+      "name": "Scotty Hebborn",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "username": "bwardel4",
+      "email": "bwardel4@xing.com",
+      "name": "Brit Wardel",
+      "gender": "Female"
+    }
+  ],
+  "grades": [
+    { "studentId": 3718, "class": "math", "grade": "C" },
+    { "studentId": 3718, "class": "science", "grade": "B" },
+    { "studentId": 3718, "class": "gym", "grade": "C" },
+    { "studentId": 3718, "class": "gym", "grade": "A" },
+    { "studentId": 173, "class": "math", "grade": "F" },
+    { "studentId": 173, "class": "english", "grade": "A" },
+    { "studentId": 173, "class": "science", "grade": "B" },
+    { "studentId": 173, "class": "math", "grade": "D" },
+    { "studentId": 1448, "class": "science", "grade": "C" },
+    { "studentId": 1448, "class": "gym", "grade": "D" },
+    { "studentId": 1448, "class": "gym", "grade": "D" },
+    { "studentId": 1448, "class": "gym", "grade": "F" },
+    { "studentId": 2851, "class": "science", "grade": "A" },
+    { "studentId": 2851, "class": "gym", "grade": "C" },
+    { "studentId": 2851, "class": "gym", "grade": "A" },
+    { "studentId": 2851, "class": "science", "grade": "A" }
+  ]
+}

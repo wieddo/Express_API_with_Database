@@ -1,0 +1,14 @@
+//-- new student --
+{
+  "username": "test111",
+  "email": "test111@gmail.com",
+  "name": "test dummy",
+  "gender": "Male"
+}
+
+//-- add new grade to student 1 --
+{
+  "studentId": "1",
+  "class": "computer science",
+  "grade": "C"
+}
